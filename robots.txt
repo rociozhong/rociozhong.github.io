@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rociozhong.github.io/rociozhong/sitemap.xml
+Sitemap: https://rociozhong.github.io/sitemap.xml
