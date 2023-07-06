@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Proud Boys Telegram Network
+description: This research project traces the data from Telegram, a social networking app, to understand the organizational structure of one gray network, a membership organization of self-described "Western chauvinists" called Proud Boys.
+img: assets/img/pb_network.png
 importance: 1
 category: work
 ---
