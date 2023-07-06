@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://iddp.gwu.edu/'>George Washington University</a>. Address. Contacts. Moto. Etc.
+subtitle: Computational Social Scientist <a href='https://iddp.gwu.edu/'>George Washington University</a>. 
 
 profile:
   align: right
@@ -28,3 +28,17 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 I am a postdoctoral scientist at the Institute of Data, Democracy, and Politics (IDDP) at George Washington University. I received my PhD in political Science and MS in Statistics from the University of Illinois at Urbana-Champaign.
 
 My research interest lies at the intersection of computational techniques, social media and politics, with a focus on analyzing anti-normative, hateful and polarized information in social networks using political behavior theories. 
+
+Education
+---
+2014.08 - 2021.05\\
+Ph.D. in Political Science, University of Illinois at Urbana-Champaign
+
+2016.08 - 2018.05\\
+M.S. in Statistics, University of Illinois at Urbana-Champaign
+
+2012 .08 - 2014.05\\
+M.A. in Politics, New York University
+
+2005.08 - 2009.05\\
+B.A. in Spanish, University of International Business and Economics, China (对外经济贸易大学）
