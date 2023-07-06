@@ -31,7 +31,7 @@ My research interest lies at the intersection of computational techniques, socia
 
 
 
-Education
+#### Education
 ---
 2014.08 - 2021.05\\
 Ph.D. in Political Science, University of Illinois at Urbana-Champaign
