@@ -25,7 +25,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a postdoctoral scientist at [the Institute of Data, Democracy, and Politics (IDDP)](https://iddp.gwu.edu/) at [George Washington University](https://www.gwu.edu/). I received my PhD in political Science and MS in Statistics from [the University of Illinois at Urbana-Champaign](https://illinois.edu/).
+I am a postdoctoral scientist at [the Institute of Data, Democracy, and Politics (IDDP)](https://iddp.gwu.edu/) at [George Washington University](https://www.gwu.edu/). In September, I will be joining [the Center for Social Media and Politics](https://csmapnyu.org/) at [New York University](https://www.nyu.edu/) as a postdoctoral fellow. I received my PhD in political Science and MS in Statistics from [the University of Illinois at Urbana-Champaign](https://illinois.edu/).
 
 My research interest lies at the intersection of computational techniques, social media and politics, with a focus on analyzing anti-normative, hateful and polarized information in social networks using political behavior theories. 
 
