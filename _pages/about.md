@@ -27,7 +27,9 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am currently a Postdoctoral Fellow at [the Center for Social Media and Politics](https://csmapnyu.org/) at [New York University](https://www.nyu.edu/). Before joining NYU, I served as a Research Scientist at [the Institute of Data, Democracy, and Politics (IDDP)](https://iddp.gwu.edu/) at [George Washington University](https://www.gwu.edu/). I hold a Ph.D. in political Science and an M.S. in statistics from [the University of Illinois at Urbana-Champaign](https://illinois.edu/).
 
-My research interests are situated at the intersection of computational methods, social media, and politics. I specialize in studying voting behavior, the dynamics of online extremism, and the mechanisms underlying political polarization.
+Beginning in Fall 2025, I will join [the Department of Political Science](https://www.stonybrook.edu/polsci/) at [Stony Brook University](https://www.stonybrook.edu) as an Assistant Professor.
+
+My research explores how digital communication shapes political behavior, public opinion, and polarization. I use large-scale social media data and computational methods—including natural language processing, machine learning, and network analysis—to study topics such as voting, online extremism, and the dynamics of political division.
 
 
 
