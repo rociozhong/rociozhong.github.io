@@ -25,11 +25,12 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am currently a Postdoctoral Fellow at [the Center for Social Media and Politics](https://csmapnyu.org/) at [New York University](https://www.nyu.edu/). Before joining NYU, I served as a Research Scientist at [the Institute of Data, Democracy, and Politics (IDDP)](https://iddp.gwu.edu/) at [George Washington University](https://www.gwu.edu/). I hold a Ph.D. in political Science and an M.S. in statistics from [the University of Illinois at Urbana-Champaign](https://illinois.edu/).
+I am an Assistant Professor in the Department of Political Science at [Stony Brook University](https://www.stonybrook.edu/polsci/), which I joined in Fall 2025.  
 
-Beginning in Fall 2025, I will join [the Department of Political Science](https://www.stonybrook.edu/polsci/) at [Stony Brook University](https://www.stonybrook.edu) as an Assistant Professor.
+Previously, I was a Postdoctoral Fellow at the [Center for Social Media and Politics](https://csmapnyu.org/) at [New York University](https://www.nyu.edu/) and a Research Scientist at the [Institute of Data, Democracy, and Politics (IDDP)](https://iddp.gwu.edu/) at [George Washington University](https://www.gwu.edu/). I hold a Ph.D. in Political Science and an M.S. in Statistics from the [University of Illinois at Urbana–Champaign](https://illinois.edu/).  
 
-My research explores how digital communication shapes political behavior, public opinion, and polarization. I use large-scale social media data and computational methods—including natural language processing, machine learning, and network analysis—to study topics such as voting, online extremism, and the dynamics of political division.
+My research examines how digital communication shapes political behavior, public opinion, and polarization. I use large-scale social media data and computational methods—including natural language processing, machine learning, and network analysis—to study topics such as voting, online extremism, and the dynamics of political division.  
+
 
 
 
