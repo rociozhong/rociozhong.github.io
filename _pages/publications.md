@@ -9,10 +9,9 @@ nav_order: 1
 <div class="publications">
 
 <h2 class="year">Publications</h2>
-{% bibliography -f papers -q @*[abbr!=Under Review, abbr!=In Progress] %}
+{% bibliography -f published %}
 
 <h2 class="year">Under Review</h2>
-{% bibliography -f papers -q @*[abbr=Under Review] %}
-
+{% bibliography -f underreview %}
 
 </div>
