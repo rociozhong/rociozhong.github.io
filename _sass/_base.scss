@@ -4,6 +4,16 @@
 
 // Typography
 
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 300;
+}
+
 p,
 h1,
 h2,
@@ -171,6 +181,9 @@ blockquote {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.01em;
 }
 
 .navbar .dropdown-menu {

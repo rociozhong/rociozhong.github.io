@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Computational Social Scientist #<a href='https://iddp.gwu.edu/'>George Washington University</a>. 
+subtitle: Assistant Professor, <a href='https://www.stonybrook.edu/polsci/'>Stony Brook University</a>
 
 profile:
   align: right
@@ -19,31 +19,30 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome! I am an Assistant Professor in the [Department of Political Science](https://www.stonybrook.edu/polsci/) at [Stony Brook University](https://www.stonybrook.edu/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I was a Postdoctoral Research Scientist at the [Center for Social Media and Politics](https://csmapnyu.org/) at [New York University](https://www.nyu.edu/) and a Research Scientist at the [Institute of Data, Democracy, and Politics (IDDP)](https://iddp.gwu.edu/) at [George Washington University](https://www.gwu.edu/). I hold a Ph.D. in Political Science and an M.S. in Statistics from the [University of Illinois at Urbana-Champaign](https://illinois.edu/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+My research examines how digital communication shapes political behavior, public opinion, and polarization. Using large-scale social media data and computational methods — including natural language processing, machine learning, computer vision, and network analysis — I study online extremism and far-right mobilization, content moderation and platform governance, media framing, and the dynamics of political division in the United States and beyond.
 
-I am an Assistant Professor in the Department of Political Science at [Stony Brook University](https://www.stonybrook.edu/polsci/), which I joined in Fall 2025.  
-
-Previously, I was a Postdoctoral Fellow at the [Center for Social Media and Politics](https://csmapnyu.org/) at [New York University](https://www.nyu.edu/) and a Research Scientist at the [Institute of Data, Democracy, and Politics (IDDP)](https://iddp.gwu.edu/) at [George Washington University](https://www.gwu.edu/). I hold a Ph.D. in Political Science and an M.S. in Statistics from the [University of Illinois at Urbana–Champaign](https://illinois.edu/).  
-
-My research examines how digital communication shapes political behavior, public opinion, and polarization. I use large-scale social media data and computational methods—including natural language processing, machine learning, and network analysis—to study topics such as voting, online extremism, and the dynamics of political division.  
-
-
-
-
-#### Education
----
-2014.08 - 2021.05\\
-Ph.D. in Political Science, University of Illinois at Urbana-Champaign
-
-2016.08 - 2018.05\\
-M.S. in Statistics, University of Illinois at Urbana-Champaign
-
-2012 .08 - 2014.05\\
-M.A. in Politics, New York University
-
-2005.08 - 2009.05\\
-B.A. in Spanish, University of International Business and Economics, China (对外经济贸易大学）
+<div class="row mt-4">
+  <div class="col-md-6">
+    <h4>Interests</h4>
+    <ul>
+      <li>Online Hate and Extremism</li>
+      <li>Polarization</li>
+      <li>Content Moderation and Platform Governance</li>
+      <li>Social Media and Political Behavior</li>
+      <li>Computational Methods</li>
+    </ul>
+  </div>
+  <div class="col-md-6">
+    <h4>Education</h4>
+    <ul style="list-style: none; padding-left: 0;">
+      <li>Ph.D. in Political Science, 2021<br><span style="color: gray;">University of Illinois at Urbana-Champaign</span></li>
+      <li>M.S. in Statistics, 2018<br><span style="color: gray;">University of Illinois at Urbana-Champaign</span></li>
+      <li>M.A. in Politics, 2014<br><span style="color: gray;">New York University</span></li>
+      <li>B.A. in Spanish, 2009<br><span style="color: gray;">University of International Business and Economics (对外经济贸易大学)</span></li>
+    </ul>
+  </div>
+</div>

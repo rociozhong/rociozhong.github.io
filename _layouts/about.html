@@ -4,12 +4,6 @@ layout: default
 
 <!-- about.html -->
       <div class="post">
-        <header class="post-header">
-          <h1 class="post-title">
-           {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
-          </h1>
-          <p class="desc">{{ page.subtitle }}</p>
-        </header>
 
         <article>
           {% if page.profile -%}
@@ -28,6 +22,11 @@ layout: default
               class=profile_image_class
               alt=page.profile.image -%}
             {% endif -%}
+            <div class="text-center mt-3">
+              <p style="margin-bottom: 0; font-size: 1em;">
+                <span style="font-weight: bold;">{% if site.title == "blank" -%}{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}</span> <span style="font-family: 'STKaiti', 'KaiTi', 'Noto Serif SC', serif;">钟玮</span>
+              </p>
+            </div>
             {%- if page.profile.address %}
             <div class="address">
               {{ page.profile.address }}
