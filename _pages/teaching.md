@@ -13,7 +13,7 @@ nav_order: 4
 
 Instructor, POL 201 Introduction to Statistical Methods in Political Science, Spring 2026
 
-Instructor, POL 604 Quantitative Analysis III (Graduate), Fall 2025
+Instructor, POL 604 Quantitative Analysis III (Graduate), Fall 2026, Fall 2025
 
 **University of Illinois at Urbana-Champaign**
 
